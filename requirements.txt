@@ -1,0 +1,4 @@
+pydantic
+huggingface_hub
+fastapi
+uvicorn
